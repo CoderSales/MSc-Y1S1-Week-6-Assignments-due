@@ -9,6 +9,8 @@ Assignments due in Week 6
 
 [![Screenshot-2023-10-16-122607-Assignment-Internationalisation.png](https://github.com/CoderSales/MSc-Y1S1-Week-6-Assignments-due/blob/main/static/images/Screenshot-2023-10-16-122607-Assignment-Internationalisation.png)](https://learn.ul.ie/d2l/lms/dropbox/user/folders_list.d2l?ou=10835&isprv=0)
 
+_____________________________________________________________________________________________________________________________________________________________________
+
 [![Screenshot-2023-10-16-124913-Philosophy-of-Research-Poster-Template-v2.png](https://github.com/CoderSales/MSc-Y1S1-Week-6-Assignments-due/blob/main/static/images/Screenshot-2023-10-16-124913-Philosophy-of-Research-Poster-Template-v2.png)](https://learn.ul.ie/d2l/le/lessons/10809/topics/455727)
 
 
