@@ -7,6 +7,7 @@ Assignments due in Week 6
 
 I hope this is correct, but there is no guarantee this information is correct, just did the best I could in case this may be helpful, so, use at your own risk.
 Check back with the official sources, Brightspace, Lecturers, etc. for official information, this is very much unofficial, and not necessarily maintained or up to date either.
+I assume all times are Irish time.
 
 ## Summary
 
@@ -16,7 +17,7 @@ Check back with the official sources, Brightspace, Lecturers, etc. for official 
 - Agile - Thursday
 
 2. Philosophy of Research
-- Poster Presentation
+- Poster Presentation - Friday (However, Open Day on Friday (so not sure if just submit that day ?) )
 
 3. Initial Programming (Java)
 - In class Assessment - Tuesday (Tomorrow)
