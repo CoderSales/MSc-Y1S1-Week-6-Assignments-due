@@ -5,6 +5,19 @@ Assignments due in Week 6
 
 ## Content
 
+### Overview
+
+____
+
+Note: Click 3 by 3 matrix button in top right for menu shown below.
+Note2: Link goes to Overall Semester Homepage on Brightspace, rather than Best Practice Software Internationalisation Module home shown in image.
+
+[![Screenshot-2023-10-16-133128-Overview-edited.png](https://github.com/CoderSales/MSc-Y1S1-Week-6-Assignments-due/blob/main/static/images/Screenshot-2023-10-16-133128-Overview-edited.png)](https://learn.ul.ie/d2l/home)
+
+____
+
+https://github.com/CoderSales/MSc-Y1S1-Week-6-Assignments-due/blob/main/static/images/Screenshot-2023-10-16-133128-Overview-edited.png
+
 ### Best Practice Software Internationalisation
 
 ____
