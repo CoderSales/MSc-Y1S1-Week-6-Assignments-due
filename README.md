@@ -3,6 +3,27 @@
 ## Description
 Assignments due in Week 6
 
+## Disclaimer
+
+I hope this is correct, but there is no guarantee this information is correct, just did the best I could in case this may be helpful, so, use at your own risk.
+Check back with the official sources, Brightspace, Lecturers, etc. for official information, this is very much unofficial, and not necessarily maintained or up to date either.
+
+## Summary
+
+1. Best Practice Software Internationalisation
+- Presentation - Monday (Today)
+- In class Assessment - Tuesday (Tomorrow afternoon)
+- Agile - Thursday
+
+2. Philosophy of Research
+- Poster Presentation
+
+3. Initial Programming (Java)
+- In class Assessment - Tuesday (Tomorrow)
+- Group Assignment - due Friday 20-Oct-2023 5 pm
+
+4. Of the Bonus PSLG Sessions this week, Wednesday is the only in-person one left this week we can attend as we have class on Tuesday, and Thursday and Friday are Open Days (Closed) (not sure about online version)
+
 ## Content
 
 ### Overview
