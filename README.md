@@ -20,7 +20,7 @@ I assume all times are Irish time.
 - Poster Presentation - Week 6 (However, Open Day on Friday (and Thrusday) (so not sure when exactly to submit and when to do live defense of research ?) )
 
 3. Initial Programming (Java)
-- In class Assessment - Tuesday (Tomorrow)
+- In class Assessment - Week 8
 - Group Assignment - due Friday 20-Oct-2023 5 pm
 
 4. Of the Bonus PSLG Sessions this week, Wednesday is the only in-person one left this week we can attend as we have class on Tuesday, and Thursday and Friday are Open Days (Closed) (not sure about online version)
