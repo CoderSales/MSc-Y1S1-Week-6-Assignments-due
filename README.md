@@ -17,7 +17,7 @@ I assume all times are Irish time.
 - Agile - Thursday
 
 2. Philosophy of Research
-- Poster Presentation - Friday (However, Open Day on Friday (so not sure if just submit that day ?) )
+- Poster Presentation - Week 6 (However, Open Day on Friday (and Thrusday) (so not sure when exactly to submit and when to do live defense of research ?) )
 
 3. Initial Programming (Java)
 - In class Assessment - Tuesday (Tomorrow)
